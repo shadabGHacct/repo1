@@ -1,0 +1,3 @@
+line 1 before adding the file to stage
+line 2 before adding the file to stage
+line 3 after adding the file to stage
